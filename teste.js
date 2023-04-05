@@ -6,7 +6,7 @@ const port = 3000;
 
 
 const user = "teste.cadastro23@hotmail.com";
-const pass = "teste@23*&";
+const pass = "password of e-mail";
 
 
 
