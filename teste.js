@@ -25,7 +25,7 @@ app.get('/send', (req, res) => {
         to: "teste.desenvolvimento07@gmail.com",
         replyTo: "teste.desenvolvimento07@gmail.com",
         subject: "Olá, seja bem vindo!",
-        text: "Fala, Pelicana Ana!"
+        text: "Fala, aí!"
     }).then(info => {
         res.send(info);
     }).catch(error => {
